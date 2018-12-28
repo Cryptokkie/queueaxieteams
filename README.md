@@ -11,7 +11,7 @@ It's just a temporary solution until the axie devteam improves this functionalit
   In google chrome:
   - go to 'My teams' https://axieinfinity.com/battle-lobby/my-teams
   - open chrome's developer window (ctrl+shift+i)
-  - in the console: dump the entire JavaScript content of the file: attack.js there and press enter
+  - in the console: dump the entire JavaScript content of the file: [I'm a relative reference to a repository file](attack.js) there and press enter
   - if there are still battles ready repeat the last steps (reload the page (ctrl+R) and paste the script in the console again, press enter.)
 
 

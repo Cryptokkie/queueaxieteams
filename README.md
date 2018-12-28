@@ -32,5 +32,7 @@ This makes a menu appear. The first option of that menu is than clicked (The one
 Yes, a lo-tec - far from pretty ghetto tech solution... but hey! It does save me a hell a lot of clicking
 
 ### For ze future:
-  The react application has to make a request to the server for each teambattle.
-  In the longer run it's probably better to have the queueing take place on the backend.
+- Maybe wrap the script in a chrome extension... maybe
+- To you, axie developer/architect - The react application has to make a request to the server for each teambattle. In the longer run it's probably better to have the queueing take place on the backend.
+
+

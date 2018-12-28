@@ -11,7 +11,7 @@ It's just a temporary solution until the axie devteam improves this functionalit
   In Google chrome browser:
   - go to 'My teams' https://axieinfinity.com/battle-lobby/my-teams
   - open chrome's developer tool window <kbd>Ctrl</kbd>+<kbd>shift</kbd>+<kbd>i</kbd>
-  - Select the entire content <kbd>Ctrl</kbd>+<kbd>A</kbd> of the [JavaScript file attack.js](attack.js), copy it to the clipboard <kbd>Ctrl</kbd>+<kbd>C</kbd> and paste it <kbd>Ctrl</kbd>+<kbd>V</kbd> in the dev console at the prompt. After that - press <kbd>enter</kbd>.
+  - Select the entire content <kbd>Ctrl</kbd>+<kbd>A</kbd> of the JavaScript file [attack.js](https://raw.githubusercontent.com/Cryptokkie/queueaxieteams/master/attack.js), copy it to the clipboard <kbd>Ctrl</kbd>+<kbd>C</kbd> and paste it <kbd>Ctrl</kbd>+<kbd>V</kbd> in the dev console at the prompt. After that - press <kbd>enter</kbd>.
   - All teams will be queued for the first battle.
   - if there are still battles ready repeat the last steps. (Reload the page first! <kbd>Ctrl</kbd>+<kbd>R</kbd>, after that paste the script in the console again, press <kbd>enter</kbd>.)
 

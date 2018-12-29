@@ -42,7 +42,7 @@ Yes, a very ghetto lo-tec solution... but hey! It does save me a hell a lot of c
 ### For ze future (TODO):
 - To you, axie developer/architect - The react application has to make a request to the server for each battle. In the longer run it's probably better to have batch-queueing take place on the backend.
 
-Remember: This is just a temporary solution until the axie devteam implements similar functionality on the website. When the time comes they have we can all think back of this time and smile. How silly we were...
+Remember: This is just a temporary solution until the axie devteam implements similar functionality on the website. When the time comes they have, we can all think back of this time and smile. How silly we were...
 
 Enjoy! 
 

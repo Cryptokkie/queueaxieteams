@@ -3,8 +3,15 @@ Script for queueing all axieinfinity.com axie-teams for battle in one go
 
 ### Why?
 At the moment of writing users of axieinfinity have to click several times per team to send it for three battle rounds.
-I have over 30 teams and it got annoying, that is why I decided to write this script.
-This is just a temporary solution until the axie devteam improves this functionality. Than we can all think back of this time and smile. How silly we were...
+I have [quite a lot of axies](https://axieinfinity.com/profile/0xa374a95b8246cc6d9c5bb660a913571be8c2d8aa) in over 30 battle-teams. To send these to battle I had to click more than 180 times. 
+I thought:
+> Man! Write a script that does this clicking for you damnit!
+
+Now, many days after that thought, I finally made my ass sit down and started programming.
+When I was finished I thought:
+> While I'm at - why not improve the quality of life of my fellow axie battle opponents and share it with them too?
+
+So here it is!
 
 ### How to use the script:
 
@@ -30,12 +37,13 @@ Than it starts looking for the first occurence of a blue line - you know, the on
 If it finds the blue indicator, the script 'presses / mouseovers' that teams element. 
 This makes a menu appear. The first option of that menu is 'send to battle' - the script 'clicks' on it. 
 
-Yes, a very lo-tec ghetto tech solution... but hey! It does save me a hell a lot of clicking.
+Yes, a very ghetto lo-tec solution... but hey! It does save me a hell a lot of clicking.
 
-### For ze future:
-- Maybe wrap the script in a chrome extension... maybe
-- To you, axie developer/architect - The react application has to make a request to the server for each teambattle. In the longer run it's probably better to have the queueing take place on the backend.
+### For ze future (TODO):
+- To you, axie developer/architect - The react application has to make a request to the server for each battle. In the longer run it's probably better to have batch-queueing take place on the backend.
 
+Remember: This is just a temporary solution until the axie devteam implements similar functionality on the website. When the time comes they have we can all think back of this time and smile. How silly we were...
 
-Enjoy!
-Cryptokkie
+Enjoy! 
+
+@Cryptokkie discord twitter
